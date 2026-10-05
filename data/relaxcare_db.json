@@ -1,0 +1,401 @@
+{
+  "services": [
+    {
+      "id": "srv-swedish",
+      "name": "Swedish Massage",
+      "slug": "swedish-massage",
+      "description": "Classic European full-body therapy utilizing long flowing strokes, kneading, and gentle friction to melt tension and boost circulation.",
+      "category": "Massage Services",
+      "duration": "60 Minutes",
+      "price": 999,
+      "benefits": [
+        "Relieves muscular stiffness",
+        "Improves blood circulation",
+        "Deep mental relaxation",
+        "Boosts sleep quality"
+      ],
+      "includes": [
+        "Full body therapy (60m)",
+        "Warm organic sesame oil",
+        "Aromatic hot towel finish",
+        "Choice of lavender essence"
+      ],
+      "rating": 4.9,
+      "reviews_count": 248,
+      "active": true,
+      "theme_gradient": "from-emerald-950 via-emerald-900 to-teal-900",
+      "accent_color": "#065f46",
+      "featured": true
+    },
+    {
+      "id": "srv-deep-tissue",
+      "name": "Deep Tissue Massage",
+      "slug": "deep-tissue-massage",
+      "description": "Targeted deep-layer myofascial therapy focusing on chronic muscle knots, postural fatigue, and tension release.",
+      "category": "Massage Services",
+      "duration": "60 Minutes",
+      "price": 1199,
+      "benefits": [
+        "Releases chronic muscle knots",
+        "Restores joint mobility",
+        "Reduces postural inflammation",
+        "Ideal for athletes & desk strain"
+      ],
+      "includes": [
+        "Focused pressure on knots",
+        "Therapeutic eucalyptus balm",
+        "Heated basalt stone warmup",
+        "Acupressure points"
+      ],
+      "rating": 4.9,
+      "reviews_count": 312,
+      "active": true,
+      "theme_gradient": "from-stone-900 via-emerald-950 to-stone-950",
+      "accent_color": "#047857",
+      "featured": true
+    },
+    {
+      "id": "srv-aromatherapy",
+      "name": "Aromatherapy Massage",
+      "slug": "aromatherapy-massage",
+      "description": "Sensory holistic massage combining gentle rhythmic touch with pure therapeutic grade botanicals and essential oils.",
+      "category": "Massage Services",
+      "duration": "60 Minutes",
+      "price": 1299,
+      "benefits": [
+        "Calms nervous system",
+        "Balances emotional state",
+        "Skin hydration & glow",
+        "Alleviates anxiety & headache"
+      ],
+      "includes": [
+        "Custom scent profiling",
+        "Pure French lavender & rose oils",
+        "Sinus & scalp tension relief",
+        "Aromatherapeutic inhalation"
+      ],
+      "rating": 5,
+      "reviews_count": 189,
+      "active": true,
+      "theme_gradient": "from-amber-950 via-emerald-950 to-stone-900",
+      "accent_color": "#b45309",
+      "featured": true
+    },
+    {
+      "id": "srv-thai",
+      "name": "Thai Massage",
+      "slug": "thai-massage",
+      "description": "Ancient passive stretching and assisted yoga movements on traditional tatami mats to unlock energy meridians.",
+      "category": "Massage Services",
+      "duration": "75 Minutes",
+      "price": 1399,
+      "benefits": [
+        "Full-body flexibility",
+        "Energy alignment",
+        "Relieves lower back compression",
+        "Enhanced joint mobility"
+      ],
+      "includes": [
+        "Traditional cotton massage attire",
+        "Assisted yoga stretching",
+        "Energy line acupressure",
+        "Herbal compress warm-up"
+      ],
+      "rating": 4.8,
+      "reviews_count": 142,
+      "active": true,
+      "theme_gradient": "from-teal-950 via-emerald-900 to-stone-900",
+      "accent_color": "#0f766e",
+      "featured": false
+    },
+    {
+      "id": "srv-head-shoulder",
+      "name": "Head & Shoulder Massage",
+      "slug": "head-shoulder-massage",
+      "description": "Targeted express therapy addressing the upper traps, neck, scalp, and temple tension caused by screen fatigue.",
+      "category": "Massage Services",
+      "duration": "45 Minutes",
+      "price": 699,
+      "benefits": [
+        "Instant relief from screen fatigue",
+        "Eases cervical tension",
+        "Stimulates scalp circulation",
+        "Calms headaches"
+      ],
+      "includes": [
+        "Upper back & trap trigger points",
+        "Warm Brahmi scalp infusion",
+        "Temples acupressure",
+        "Cooling peppermint compress"
+      ],
+      "rating": 4.9,
+      "reviews_count": 220,
+      "active": true,
+      "theme_gradient": "from-emerald-900 via-stone-900 to-teal-950",
+      "accent_color": "#065f46",
+      "featured": false
+    },
+    {
+      "id": "srv-foot",
+      "name": "Foot Reflexology Massage",
+      "slug": "foot-reflexology",
+      "description": "Holistic foot acupressure mapping reflex points corresponding to vital organs for whole-body vitality.",
+      "category": "Massage Services",
+      "duration": "45 Minutes",
+      "price": 699,
+      "benefits": [
+        "Improves plantar circulation",
+        "Relieves leg heaviness",
+        "Promotes sound sleep",
+        "Relaxes autonomic nerves"
+      ],
+      "includes": [
+        "Himalayan pink salt soak",
+        "Foot scrub & exfoliation",
+        "Reflex zone acupressure",
+        "Peppermint cooling balm"
+      ],
+      "rating": 4.8,
+      "reviews_count": 175,
+      "active": true,
+      "theme_gradient": "from-stone-900 via-emerald-950 to-stone-900",
+      "accent_color": "#047857",
+      "featured": false
+    },
+    {
+      "id": "srv-body-spa",
+      "name": "Luxury Body Spa",
+      "slug": "body-spa",
+      "description": "Ultra-luxurious head-to-toe ritual comprising dry brushing, warm shea butter wrap, and full-body relaxation massage.",
+      "category": "Spa & Wellness",
+      "duration": "90 Minutes",
+      "price": 1899,
+      "benefits": [
+        "Deep epidermal nourishment",
+        "Detoxifies skin layers",
+        "Total nervous system calm",
+        "Velvety skin texture"
+      ],
+      "includes": [
+        "Silk body buffing",
+        "Warm shea butter envelope",
+        "60m relaxing body massage",
+        "Herbal green tea elixir"
+      ],
+      "rating": 5,
+      "reviews_count": 160,
+      "active": true,
+      "theme_gradient": "from-amber-950 via-stone-900 to-emerald-950",
+      "accent_color": "#b45309",
+      "featured": true
+    },
+    {
+      "id": "srv-steam-bath",
+      "name": "Herbal Steam Bath & Hydrotherapy",
+      "slug": "steam-bath",
+      "description": "Private pine cedar steam room infused with organic eucalyptus and lemongrass herbs to open pores and flush toxins.",
+      "category": "Spa & Wellness",
+      "duration": "45 Minutes",
+      "price": 799,
+      "benefits": [
+        "Flushes deep tissue toxins",
+        "Clears respiratory passages",
+        "Primes muscles before massage",
+        "Invigorates skin pores"
+      ],
+      "includes": [
+        "Private cedar steam chamber",
+        "Eucalyptus & lemongrass infusion",
+        "Chilled lemon facial towel",
+        "Hydrating rose water spritz"
+      ],
+      "rating": 4.8,
+      "reviews_count": 110,
+      "active": true,
+      "theme_gradient": "from-teal-950 via-emerald-950 to-stone-900",
+      "accent_color": "#0f766e",
+      "featured": false
+    },
+    {
+      "id": "srv-aromatherapy-spa",
+      "name": "Botanical Aromatherapy Ritual",
+      "slug": "botanical-aromatherapy-spa",
+      "description": "Multi-sensory hydro-aroma immersion with pure botanical bath extracts, sonic sound bowls, and oil massage.",
+      "category": "Spa & Wellness",
+      "duration": "75 Minutes",
+      "price": 1599,
+      "benefits": [
+        "Releases accumulated emotional stress",
+        "Deep skin hydration",
+        "Balances sleep rhythms",
+        "Soothing meditative trance"
+      ],
+      "includes": [
+        "Warm essential oil body rub",
+        "Sound bowl vibration warmup",
+        "Scalp chamomile therapy",
+        "Warm herbal towel pack"
+      ],
+      "rating": 4.9,
+      "reviews_count": 95,
+      "active": true,
+      "theme_gradient": "from-emerald-950 via-amber-950 to-stone-950",
+      "accent_color": "#065f46",
+      "featured": false
+    },
+    {
+      "id": "srv-body-scrub",
+      "name": "Coffee & Gold Body Scrub",
+      "slug": "body-scrub",
+      "description": "Gentle full-body exfoliation utilizing freshly roasted Arabica coffee grounds, walnut micro-pearls, and 24k gold essence.",
+      "category": "Spa & Wellness",
+      "duration": "60 Minutes",
+      "price": 1399,
+      "benefits": [
+        "Removes dead epithelial cells",
+        "Reduces cellulite appearance",
+        "Stimulates lymphatic drainage",
+        "Leaves radiant golden glow"
+      ],
+      "includes": [
+        "Organic coffee & gold polish",
+        "Vichy shower rinse",
+        "Hydrating golden shea lotion",
+        "Gentle effleurage massage"
+      ],
+      "rating": 4.9,
+      "reviews_count": 130,
+      "active": true,
+      "theme_gradient": "from-stone-900 via-stone-800 to-amber-950",
+      "accent_color": "#b45309",
+      "featured": false
+    }
+  ],
+  "therapists": [
+    {
+      "id": "th-nomi",
+      "name": "Nomi",
+      "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=400",
+      "experience": "6 Years Experience",
+      "specializations": [
+        "Swedish Massage",
+        "Deep Tissue Massage",
+        "Aromatherapy Massage",
+        "Thai Massage",
+        "Head & Shoulder Massage",
+        "Foot Reflexology Massage",
+        "Luxury Body Spa"
+      ],
+      "rating": 5,
+      "total_sessions": 850,
+      "available_days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "available_time": "9:00 AM – 9:00 PM",
+      "availability": "Available",
+      "active": true,
+      "bio": "Certified wellness & master spa practitioner. Renowned for intuitive restorative touch, stress relief techniques, and personalized calming aromatherapy rituals."
+    }
+  ],
+  "appointments": [
+    {
+      "id": "apt-1791145033506",
+      "booking_id": "RC-10003",
+      "customer_id": "usr-1791145033506",
+      "customer_name": "Rohan Mehta",
+      "mobile": "9876500000",
+      "email": "rohan@example.com",
+      "service_id": "srv-swedish",
+      "service_name": "Swedish Massage",
+      "therapist_id": "th-nomi",
+      "therapist_name": "Nomi",
+      "date": "2026-10-15",
+      "time": "4:00 PM",
+      "duration": "60 Minutes",
+      "price": 999,
+      "payment_method": "Pay at Spa",
+      "payment_status": "Pending",
+      "appointment_status": "CONFIRMED",
+      "created_at": "2026-10-04T20:17:13.506Z"
+    },
+    {
+      "id": "apt-10001",
+      "booking_id": "RC-10001",
+      "customer_id": "usr-customer-1",
+      "customer_name": "Pooja Kapoor",
+      "mobile": "9876543210",
+      "email": "pooja.kapoor@example.com",
+      "service_id": "srv-swedish",
+      "service_name": "Swedish Massage",
+      "therapist_id": "th-nomi",
+      "therapist_name": "Nomi",
+      "date": "2026-10-04",
+      "time": "6:00 PM",
+      "duration": "60 Minutes",
+      "price": 999,
+      "notes": "Focus on shoulder and upper neck relaxation",
+      "payment_method": "Pay at Spa",
+      "payment_status": "Pending",
+      "appointment_status": "PENDING CONFIRMATION",
+      "created_at": "2026-10-04T19:47:13.506Z"
+    },
+    {
+      "id": "apt-10002",
+      "booking_id": "RC-10002",
+      "customer_id": "usr-customer-2",
+      "customer_name": "Aditya Singhal",
+      "mobile": "9811223344",
+      "email": "aditya.singhal@example.com",
+      "service_id": "srv-deep-tissue",
+      "service_name": "Deep Tissue Massage",
+      "therapist_id": "th-nomi",
+      "therapist_name": "Nomi",
+      "date": "2026-10-05",
+      "time": "2:00 PM",
+      "duration": "60 Minutes",
+      "price": 1199,
+      "notes": "Lower back stiffness after gym workout",
+      "payment_method": "Pay at Spa",
+      "payment_status": "Pending",
+      "appointment_status": "CONFIRMED",
+      "created_at": "2026-10-04T18:17:13.506Z"
+    }
+  ],
+  "reviews": [],
+  "notifications": [
+    {
+      "id": "notif-1791145045289",
+      "user_id": "usr-1791145033506",
+      "title": "Appointment Confirmed",
+      "message": "Your RelaxCare appointment has been confirmed.",
+      "read": false,
+      "created_at": "2026-10-04T20:17:25.289Z",
+      "appointment_id": "RC-10003"
+    },
+    {
+      "id": "notif-1791145033506",
+      "user_id": "usr-1791145033506",
+      "title": "Appointment Request Received",
+      "message": "Your appointment request has been received. Booking ID: RC-10003. Your appointment will be confirmed by our team.",
+      "read": false,
+      "created_at": "2026-10-04T20:17:13.506Z",
+      "appointment_id": "RC-10003"
+    },
+    {
+      "id": "notif-1",
+      "user_id": "usr-customer-1",
+      "title": "Appointment Request Received",
+      "message": "Your appointment request has been received. Booking ID: RC-10001. Your appointment will be confirmed by our team.",
+      "read": false,
+      "created_at": "2026-10-04T19:47:13.506Z",
+      "appointment_id": "RC-10001"
+    }
+  ],
+  "lastBookingSequence": 10003
+}
